@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
   return (
     <div>
-        <p>This is simple React Router Program</p>
+        <p>This is a sample React Router program.</p>
     </div>
   )
 }
